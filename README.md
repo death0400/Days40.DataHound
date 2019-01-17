@@ -62,4 +62,5 @@ Getting Started
 ```
 
 Next Version
+
 Maybe add the pattern for IEnumerable by IEnumerable and custom logger to specific map，automap or autotransfer bla bla bla
