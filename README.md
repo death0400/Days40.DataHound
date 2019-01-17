@@ -47,18 +47,6 @@ Getting Started
             dogs.ForEach(dog => hound.Check(dog, master));
             Console.ReadKey();
         }
-        class Man
-        {
-            public string Name { get; set; }
-            public string DogName { get; set; }
-            public int Age { get; set; }
-        }
-        class Dog
-        {
-            public string Name { get; set; }
-            public string MasterName { get; set; }
-            public int Age { get; set; }
-        }
 ```
 
 Next Version
